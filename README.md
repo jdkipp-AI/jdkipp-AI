@@ -1,6 +1,6 @@
 # Hi, I'm James
 
-I’m a Quality and Data Specialist transitioning into junior-level AI roles after 25+ years in quality assurance, localization, analytics, and process improvement.
+I’m a Quality and Data Specialist transitioning into junior-level AI roles after 25+ years of experience in quality assurance, localization, analytics, and process improvement.
 
 My recent work includes hands-on experience in RLHF, multimodal model evaluation, prompt adherence analysis, and applied generative AI projects. I’m especially interested in practical AI work that combines data quality, evaluation, business insight, and human-centered problem solving.
 
@@ -8,12 +8,12 @@ My recent work includes hands-on experience in RLHF, multimodal model evaluation
 - Applied AI and machine learning projects
 - RLHF and model evaluation
 - Prompt engineering and output analysis
-- Retrieval-augmented generation (RAG)
-- AI tools that support business intelligence and decision-making
+- RAG-based tools and workflows
+- AI applications for analytics and business intelligence
 
 ## Featured Project
 ### [InsightForge BI Dashboard](https://github.com/jdkipp-AI/InsightForge-BI-Dashboard)
-An AI-powered business intelligence dashboard built with Streamlit, LangChain, and OpenAI tools, designed to combine analytics, visualization, and chatbot-based interaction.
+An AI-powered business intelligence dashboard built with Streamlit, LangChain, and OpenAI tools that combines analytics, visualization, and chatbot-based interaction.
 
 ## AI Training
 - Applied Generative AI Specialization — Purdue University
@@ -31,4 +31,4 @@ An AI-powered business intelligence dashboard built with Streamlit, LangChain, a
 Python • TensorFlow • LangChain • ChromaDB • PyPDFLoader • Gradio • SQL • Excel • SAP
 
 ## Career Goal
-I’m building a portfolio that reflects both my technical AI training and my long-standing strengths in quality, analytics, and evaluation as I move into junior AI opportunities.
+I’m building a portfolio that combines AI training with deep experience in quality, analytics, and evaluation as I work toward a junior AI role.
