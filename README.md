@@ -1,4 +1,4 @@
-# Hi, I'm James
+# Hello, I'm James
 
 I’m a Quality and Data Specialist transitioning into junior-level AI roles after 25+ years of experience in quality assurance, localization, analytics, and process improvement.
 
