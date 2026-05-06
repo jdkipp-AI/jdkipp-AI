@@ -16,9 +16,9 @@ My recent work includes hands-on experience in RLHF, multimodal model evaluation
 An AI-powered business intelligence dashboard built with Streamlit, LangChain, and OpenAI tools that combines analytics, visualization, and chatbot-based interaction.
 
 ## AI Training
-- Applied Generative AI Specialization — Purdue University
+- Applied Generative AI Specialization — Purdue University Online
 - Google AI Essentials — Coursera
-- Python for Everybody — University of Michigan / Coursera (in progress)
+- Python for Everybody — University of Michigan Online
 
 ## Background Strengths
 - Quality assurance and process improvement
